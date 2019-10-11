@@ -1,2 +1,3 @@
 # hello-world
-Getting started on github
+
+I'm getting started with github, seems like a nice place.
